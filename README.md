@@ -8,7 +8,7 @@
         <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=fzanutto&theme=react&hide_border=false"/>
       </td>
       <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandozanutto&layout=compact&theme=react&count_private=true"/>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzanutto&layout=compact&theme=react&count_private=true"/>
       </td>
     </tr>
   </table>
